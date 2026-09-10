@@ -16,5 +16,10 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ваш_логин/название_репозитория.git](https://github.com/ваш_логин/название_репозитория.git)
-   cd название_репозитория# gada1ka
+   git clone https://github.com/dinozemcev12/gada1ka.git
+   cd gada1ka
+   
+2. Создайте файл APIKEY.py
+3. Создайте переменную внутри файла APIKEY.py под названием API и вставте туда токен от вашего бота.
+   ```bash
+   API = "ВАШ ТОКЕН"
